@@ -1,0 +1,3 @@
+# Projeto-Alura
+Projeto feito no curso de HTML5 E CSS3 da (ALURA), usando HTML5 e CSS3 para montar um web site de uma barbearia.
+Neste projeto desenvolvemos três paginas para o úsuario interagir, onde damos a  opção de  Home para a pagina principal  com mais duas opçoes  para a pagina de contato...
